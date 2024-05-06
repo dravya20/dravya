@@ -6,3 +6,5 @@
 Welcome to Note
 
 Important note - abc
+
+2nd important note
