@@ -8,3 +8,5 @@ Welcome to Note
 Important note - abc
 
 2nd important note
+
+should be added in nxt version 
